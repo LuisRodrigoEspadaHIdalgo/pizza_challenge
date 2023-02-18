@@ -14,7 +14,7 @@ Recomiendo el libro de Ralph Kimball y Margy Ross: The Data Warehouse Toolkit: T
 
 Pd: Por correcciones, sugerencias o comentarios sobre errores, dudas, mejoras en la solución no dude en escribirme a luisrodrigoespadahidalgo@gmail.com 
 
-Mucho por aprender...pero un poco menos que ayer.
+Mucho por aprender...
 
 
 * Challenge: https://www.mavenanalytics.io/blog/maven-pizza-challenge
